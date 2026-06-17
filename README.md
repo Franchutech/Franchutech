@@ -1,6 +1,6 @@
 # Francella Rojas — Data Analyst & Software Developer
 
-¡Hola! Soy una profesional orientada a la tecnología con más de 15 años de trayectoria corporativa dando soporte a la alta dirección (C-level). Mi experiencia combina una profunda visión de negocio, gestión de KPIs y toma de decisiones estratégicas, potenciada con un perfil técnico enfocado en el desarrollo de software Backend y la analítica de datos.
+¡Hola! Soy una profesional orientada a la tecnología con más de 18 años de trayectoria corporativa dando soporte a la alta dirección (C-level). Mi experiencia combina una profunda visión de negocio, gestión de KPIs y toma de decisiones estratégicas, potenciada con un perfil técnico enfocado en el desarrollo de software Backend y la analítica de datos.
 
 Actualmente estoy cursando el Grado Superior en Desarrollo de Aplicaciones Web (DAW) en Santander, España, uniendo la robustez del código con la explotación estratégica del dato.
 
