@@ -55,7 +55,6 @@ Currently pursuing a Higher Vocational Diploma in Web Application Development (D
 #### AI Evaluation & Data Quality
 
 | | | | |
-|:---:|:---:|:---:|:---:|
 | <img src="./RWS_F.jpg" height="45" alt="RWS"> | <img src="./OUTLIER_F.jpg" height="45" alt="Outlier"> | <img src="./MICRO1_F.jpg" height="45" alt="micro1"> | <img src="./TURING_F.jpg" height="45" alt="Turing"> |
 | **RWS** | **Outlier** | **micro1** | **Turing** |
 
