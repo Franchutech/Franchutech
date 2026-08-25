@@ -35,10 +35,15 @@ Currently pursuing a Higher Vocational Diploma in Web Application Development (D
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### Artificial Intelligence
+#### Artificial Intelligence & LLMs
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=xai&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+
 
 #### Gestion, Testing y Frameworks
 
@@ -47,6 +52,13 @@ Currently pursuing a Higher Vocational Diploma in Web Application Development (D
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-990000?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+#### AI Evaluation & Data Quality
+
+![RWS](https://img.shields.io/badge/RWS-0057B8?style=for-the-badge&logoColor=white)
+![Outlier](https://img.shields.io/badge/Outlier-111111?style=for-the-badge&logoColor=white)
+![micro1](https://img.shields.io/badge/micro1-111111?style=for-the-badge&logoColor=white)
+![Turing](https://img.shields.io/badge/Turing-111111?style=for-the-badge&logoColor=white)
 
 #### Concepts
 
