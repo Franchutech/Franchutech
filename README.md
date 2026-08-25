@@ -43,25 +43,26 @@ Currently pursuing a Higher Vocational Diploma in Web Application Development (D
 ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=xai&logoColor=white)
 ![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
-#### Gestion, Testing y Frameworks
+#### Development & Productivity Tools
 
-![JUnit](https://img.shields.io/badge/JUnit-C21325?style=for-the-badge&logo=junit5&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-990000?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 
 #### AI Evaluation & Data Quality
 
 <p>
-  <img src="TU_LOGO_RWS.svg" height="40" alt="RWS"/>
-  &nbsp;&nbsp;
-  <img src="TU_LOGO_OUTLIER.svg" height="40" alt="Outlier"/>
-  &nbsp;&nbsp;
-  <img src="TU_LOGO_MICRO1.svg" height="40" alt="micro1"/>
-  &nbsp;&nbsp;
-  <img src="TU_LOGO_TURING.svg" height="40" alt="Turing"/>
+  <img src="https://img.logokit.com/rws.com" height="40" alt="RWS"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://outlier.ai/favicon.ico" height="40" alt="Outlier"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.micro1.ai/favicon.ico" height="40" alt="micro1"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.turing.com/favicon.ico" height="40" alt="Turing"/>
 </p>
 
 #### Concepts
@@ -76,15 +77,6 @@ Currently pursuing a Higher Vocational Diploma in Web Application Development (D
 - Intercambio de datos: JSON, XML, CSV
 - Control de versiones: Git & GitHub
 - Entornos de desarrollo: IntelliJ IDEA, VS Code
-
-#### Development & Productivity Tools
-
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 #### Specializations
 
