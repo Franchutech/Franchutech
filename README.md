@@ -52,30 +52,12 @@ Currently pursuing a Higher Vocational Diploma in Web Application Development (D
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-
 #### AI Evaluation & Data Quality
 
-<p align="center">
-  <span>
-    <img src="./RWS_F.jpg" height="50" alt="RWS"/><br>
-    <strong>RWS</strong>
-  </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="./OUTLIER_F.jpg" height="50" alt="Outlier"/><br>
-    <strong>Outlier</strong>
-  </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="./MICRO1_F.jpg" height="50" alt="micro1"/><br>
-    <strong>micro1</strong>
-  </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="./TURING_F.jpg" height="50" alt="Turing"/><br>
-    <strong>Turing</strong>
-  </span>
-</p>
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="./RWS_F.jpg" height="45" alt="RWS"> | <img src="./OUTLIER_F.jpg" height="45" alt="Outlier"> | <img src="./MICRO1_F.jpg" height="45" alt="micro1"> | <img src="./TURING_F.jpg" height="45" alt="Turing"> |
+| **RWS** | **Outlier** | **micro1** | **Turing** |
 
 #### Concepts
 
