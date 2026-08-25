@@ -55,14 +55,26 @@ Currently pursuing a Higher Vocational Diploma in Web Application Development (D
 
 #### AI Evaluation & Data Quality
 
-<p>
-  <img src="./RWS_F.jpg" height="40" alt="RWS"/> <strong>RWS</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./OUTLIER_F.jpg" height="40" alt="Outlier"/> <strong>Outlier</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./MICRO1_F.jpg" height="40" alt="micro1"/> <strong>micro1</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./TURING_F.jpg" height="40" alt="Turing"/> <strong>Turing</strong>
+<p align="center">
+  <span>
+    <img src="./RWS_F.jpg" height="50" alt="RWS"/><br>
+    <strong>RWS</strong>
+  </span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="./OUTLIER_F.jpg" height="50" alt="Outlier"/><br>
+    <strong>Outlier</strong>
+  </span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="./MICRO1_F.jpg" height="50" alt="micro1"/><br>
+    <strong>micro1</strong>
+  </span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="./TURING_F.jpg" height="50" alt="Turing"/><br>
+    <strong>Turing</strong>
+  </span>
 </p>
 
 #### Concepts
