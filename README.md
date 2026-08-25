@@ -43,8 +43,6 @@ Currently pursuing a Higher Vocational Diploma in Web Application Development (D
 ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=xai&logoColor=white)
 ![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
-
-
 #### Gestion, Testing y Frameworks
 
 ![JUnit](https://img.shields.io/badge/JUnit-C21325?style=for-the-badge&logo=junit5&logoColor=white)
@@ -53,12 +51,18 @@ Currently pursuing a Higher Vocational Diploma in Web Application Development (D
 ![Scrum](https://img.shields.io/badge/Scrum-990000?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+
 #### AI Evaluation & Data Quality
 
-![RWS](https://img.shields.io/badge/RWS-0057B8?style=for-the-badge&logoColor=white)
-![Outlier](https://img.shields.io/badge/Outlier-111111?style=for-the-badge&logoColor=white)
-![micro1](https://img.shields.io/badge/micro1-111111?style=for-the-badge&logoColor=white)
-![Turing](https://img.shields.io/badge/Turing-111111?style=for-the-badge&logoColor=white)
+<p>
+  <img src="TU_LOGO_RWS.svg" height="40" alt="RWS"/>
+  &nbsp;&nbsp;
+  <img src="TU_LOGO_OUTLIER.svg" height="40" alt="Outlier"/>
+  &nbsp;&nbsp;
+  <img src="TU_LOGO_MICRO1.svg" height="40" alt="micro1"/>
+  &nbsp;&nbsp;
+  <img src="TU_LOGO_TURING.svg" height="40" alt="Turing"/>
+</p>
 
 #### Concepts
 
@@ -75,7 +79,12 @@ Currently pursuing a Higher Vocational Diploma in Web Application Development (D
 
 #### Development & Productivity Tools
 
-JUnit • Git • Maven • Scrum • Kanban
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 #### Specializations
 
