@@ -52,12 +52,13 @@ Currently pursuing a Higher Vocational Diploma in Web Application Development (D
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+
 #### AI Evaluation & Data Quality
 
 | | | | |
+|:---:|:---:|:---:|:---:|
 | <img src="./RWS_F.jpg" height="45" alt="RWS"> | <img src="./OUTLIER_F.jpg" height="45" alt="Outlier"> | <img src="./MICRO1_F.jpg" height="45" alt="micro1"> | <img src="./TURING_F.jpg" height="45" alt="Turing"> |
 | **RWS** | **Outlier** | **micro1** | **Turing** |
-
 #### Concepts
 
 - Desarrollo Backend: Java, Spring Boot, APIs REST, MVC
